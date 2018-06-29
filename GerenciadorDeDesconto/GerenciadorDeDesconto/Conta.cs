@@ -16,10 +16,5 @@ namespace GerenciadorDeDesconto
             Tipo = tipo;
             TempoDeCadastroEmAnos = tempoDeCadastroEmAnos;
         }
-
-        public int CalcularPorcentagemDeDesconto()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

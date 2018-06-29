@@ -1,6 +1,6 @@
 ﻿namespace GerenciadorDeDesconto
 {
-    public class GerenciadorDeDesconto
+    public class GerenciadorDeDescontos
     {
         private decimal procentagemDeDescontoMaximaBaseadoNoTempoDeConta = 0.05m;
 

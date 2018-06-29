@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorDeDesconto", "GerenciadorDeDesconto\GerenciadorDeDesconto.csproj", "{EC28AF4A-7A84-4EAC-9D6F-BE80CA007DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorDeDescontoUnitTest", "GerenciadorDeDescontoUnitTest\GerenciadorDeDescontoUnitTest.csproj", "{5394E8D3-B67C-42E2-98F8-F2C226B90169}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EC28AF4A-7A84-4EAC-9D6F-BE80CA007DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC28AF4A-7A84-4EAC-9D6F-BE80CA007DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC28AF4A-7A84-4EAC-9D6F-BE80CA007DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5394E8D3-B67C-42E2-98F8-F2C226B90169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5394E8D3-B67C-42E2-98F8-F2C226B90169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5394E8D3-B67C-42E2-98F8-F2C226B90169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5394E8D3-B67C-42E2-98F8-F2C226B90169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
